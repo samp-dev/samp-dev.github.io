@@ -2,7 +2,7 @@
   "name": "sa-mp.dev",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://samp-dev.github.io/sa-mp.dev",
+  "homepage": "http://samp-dev.github.io/",
   "dependencies": {
     "@types/jest": "24.0.9",
     "@types/node": "11.10.4",
