@@ -27,6 +27,7 @@ class App extends Component {
               <img src={discordIcon} />
             </a>
             <a href={'#'} title={'Coming Soon'}>
+              <span className={'coming-soon'}>COMING SOON</span>
               <img src={pawnIcon} />
             </a>
           </Col>
