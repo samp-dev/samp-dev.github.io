@@ -26,8 +26,7 @@ class App extends Component {
             <a href={'https://discord.sa-mp.dev'}>
               <img src={discordIcon} />
             </a>
-            <a href={'#'} title={'Coming Soon'}>
-              <span className={'coming-soon'}>COMING SOON</span>
+            <a href={'https://fiddle.sa-mp.dev'}>
               <img src={pawnIcon} />
             </a>
           </Col>
