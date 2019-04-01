@@ -11,6 +11,7 @@ body {
 
 .center-v {
   align-self: center;
+  text-align: center;
 }
 
 .link-icons img {
@@ -35,4 +36,11 @@ body {
   margin-top: 15px;
   margin-left: -7px;
   text-decoration: none;
+}
+
+.footer {
+  margin-top: 30px;
+  font-size: 12px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
 }
